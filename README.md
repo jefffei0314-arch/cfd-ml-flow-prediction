@@ -57,6 +57,8 @@ Machine learning models can effectively approximate smooth flow regions, but str
 
 ## Author
 
+The data used in this project is derived from the author's research work and is used here for academic and demonstration purposes.
+
 Jeff Tan  
 Civil Engineering + CFD → Transitioning into AI / Data-driven modeling
 
