@@ -55,7 +55,7 @@ Model performance is evaluated using both statistical and physics-based metrics:
 Machine learning models can effectively approximate smooth flow regions, but struggle to accurately capture sharp physical features such as the flow front location.
 
 
-## 👤 Author
+## Author
 
 Jeff Tan  
 Civil Engineering + CFD → Transitioning into AI / Data-driven modeling
