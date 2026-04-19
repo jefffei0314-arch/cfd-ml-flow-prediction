@@ -37,16 +37,9 @@ Model performance is evaluated using both statistical and physics-based metrics:
 - RMSE (root mean square error)
 - MAE (mean absolute error)
 
-### Physics-based metrics:
-- Flow front position
-- Active region error (h/h₀ > 0.01)
-- Area under curve (volume proxy)
-
 ## Results
 
-- Random Forest significantly outperforms Polynomial Regression:
-  - ~4× lower RMSE in the active flow region
-  - ~5× lower MAE
+- Random Forest significantly outperforms Polynomial Regression
 - Both models capture the general flow profile
 - Largest errors occur near the flow front due to sharp gradients
 
